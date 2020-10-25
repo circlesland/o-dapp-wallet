@@ -15,7 +15,7 @@
             {
                 "child": {
                     "type": "Molecule",
-                    "viewName": "WalletSafe"
+                    "viewName": "WalletUnlock"
                 },
                 "args": {
                     "area": "main"
