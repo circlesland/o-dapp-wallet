@@ -5,20 +5,12 @@
         "wallet.en.json"
     ],
     "ui": {
-        "type": "CssGridTemplate",
-        "definition": {
-            "templateAreas": "'main'",
-            "templateColumns": "1fr",
-            "templateRows": "100%"
-        },
+        "type": "MobilePhoneTemplate",
         "children": [
             {
                 "child": {
                     "type": "Molecule",
                     "viewName": "WalletUnlock"
-                },
-                "args": {
-                    "area": "main"
                 }
             }
         ]
